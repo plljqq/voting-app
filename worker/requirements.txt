@@ -1,0 +1,6 @@
+Redis
+gunicorn
+psycopg2
+ibm-db
+requests
+pyLint
